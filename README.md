@@ -5,7 +5,7 @@
 ## Projects
 :open_file_folder:
 *
-* [x] 0x04. Pagination
+* [x] 0x00. Pagination
 
 # Software engineer
 ## :enter_belu: 
