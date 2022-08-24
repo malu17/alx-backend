@@ -1,6 +1,6 @@
 # 0x01. Caching
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by elias fiseha  
+:bust_in_silhouette: by elias fiseha, Software Engineer 
 :copyright: **[alx school](https://www.alxschool.com/)**
 
 ## Background Context
